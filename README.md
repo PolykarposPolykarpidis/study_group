@@ -1,6 +1,6 @@
 # Study_group
 
-# 1 Reading group meeting
+# Next reading group meeting
 Date:
 - [ ] Saturday 2024-06-15 
 - [ ] other1
