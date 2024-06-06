@@ -1,4 +1,4 @@
-# study_group
+# Study_group
 
 # 1 Reading group meeting
 Date:
