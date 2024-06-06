@@ -1,10 +1,10 @@
 # study_group
 
-# 1 reading group meeting
+# 1 Reading group meeting
 Date:
 - [ ] Saturday 2024-06-15 
-- [ ] 
-- [ ] 
+- [ ] other1
+- [ ] other2
 
 _Polykarpos article_
 
